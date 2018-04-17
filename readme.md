@@ -1,5 +1,7 @@
 # Resnet18 Baseline
 
+This repo contains the code for the following paper : [Semantic Feature Augmentation in Few-shot Learning](https://arxiv.org/abs/1804.05298)
+
 
 
 We provided the code to reach our baseline performance in miniImagenet.(Resnet18+SVM)
