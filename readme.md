@@ -28,7 +28,7 @@ We provide the data split,please put them at
 If you want to train a resnet18 from scratch by yourself:
 
 ```
-python train.py
+python classification.py
 ```
 
 You can also used our provided model 
