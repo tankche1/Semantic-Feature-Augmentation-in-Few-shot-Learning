@@ -8,6 +8,8 @@ We provided the code to reach our baseline performance in miniImagenet.(Resnet18
 
 
 
+We release the data split in split.rar.(CUB,caltech,cifar)
+
 ## Datasets
 
 ```
