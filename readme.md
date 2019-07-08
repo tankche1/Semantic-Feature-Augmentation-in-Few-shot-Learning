@@ -45,3 +45,19 @@ Then used it to do the one-shot task:
 python SVM.py
 ```
 
+# Citation 
+```
+@ARTICLE{semanticAugmentation, 
+author={Z. {Chen} and Y. {Fu} and Y. {Zhang} and Y. {Jiang} and X. {Xue} and L. {Sigal}}, 
+journal={IEEE Transactions on Image Processing}, 
+title={Multi-level Semantic Feature Augmentation for One-shot Learning}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={1-1}, 
+keywords={one-shot learning;feature augmentation}, 
+doi={10.1109/TIP.2019.2910052}, 
+ISSN={1057-7149}, 
+month={},
+}
+```
